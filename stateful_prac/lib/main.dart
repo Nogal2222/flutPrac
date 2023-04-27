@@ -54,7 +54,7 @@ class _MyAppState extends State<MyApp> {
         textTheme: const TextTheme(
           titleLarge: TextStyle(
             color: Colors.red,
-          ),
+          ), 
         ),
       ),
       home: Scaffold(
